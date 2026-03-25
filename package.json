@@ -1,0 +1,21 @@
+{
+  "name": "astro-galaxy-background",
+  "version": "1.0.0",
+  "description": "A dynamic WebGL galaxy background component for Astro",
+  "type": "module",
+  "main": "./GalaxyBackground.astro",
+  "exports": {
+    ".": "./GalaxyBackground.astro"
+  },
+  "keywords": [
+    "astro",
+    "webgl",
+    "galaxy",
+    "background"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "astro": "^4.0.0 || ^5.0.0"
+  }
+}
